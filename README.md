@@ -6,7 +6,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br/>Before this, I taught english in world recognized ESL (english as a second language) schools.
 <br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
 <br/>Teaching was very formative, and taught me many soft skills that are relevant in my IT career.
-<br />I speak English and French, and a sprinkle of Ukrainian[^1].
+<br />I speak English and French, and a sprinkle of Ukrainian [^1].
 [^1]: але це харківська українська.
 <!--
 Ozymandias
