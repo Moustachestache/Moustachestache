@@ -7,6 +7,9 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
 <br/>Teaching was very formative, and taught me many soft skills that are relevant in my IT career.
 <br />I speak English and French, and a sprinkle of Ukrainian [^1].
+
+For a more comprehensive resume: https://github.com/Moustachestache/resume_current/
+
 [^1]: але це харківська українська.
 <!--
 Ozymandias
